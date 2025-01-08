@@ -1,0 +1,4 @@
+e2etests/*
+middleware.ts
+lint-staged.config.js
+postcss.config.js
